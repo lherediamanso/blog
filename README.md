@@ -1,6 +1,6 @@
 # Portafolio personal — Lázaro Heredia Manso
 
-Sitio web profesional estático creado para GitHub Pages.
+Sitio web profesional estático creado para GitHub Pages. Incluye perfil, trayectoria, formación, stack tecnológico y una selección de proyectos web publicados.
 
 ## Ver localmente
 
@@ -29,3 +29,4 @@ El sitio quedará disponible en:
 - `styles.css`: diseño responsive y animaciones.
 - `script.js`: navegación móvil y efectos de entrada.
 - `assets/favicon.svg`: icono del sitio.
+- `assets/projects/`: logos oficiales de los proyectos destacados.
