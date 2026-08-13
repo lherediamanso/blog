@@ -26,7 +26,7 @@ El sitio quedará disponible en:
 ## Estructura
 
 - `index.html`: contenido y estructura del portafolio.
-- `styles.css`: diseño responsive y animaciones.
+- `modern.css`: diseño moderno, responsive y animaciones.
 - `script.js`: navegación móvil y efectos de entrada.
 - `assets/favicon.svg`: icono del sitio.
 - `assets/projects/`: logos oficiales de los proyectos destacados.
