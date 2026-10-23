@@ -109,6 +109,7 @@ a { color: inherit; text-decoration: none; }
 .project-descuenta { --brand: #4b9dbf; --brand-soft: #e9f7fc; --mark-bg: #15364a; }
 .project-laobra { --brand: #f7931e; --brand-soft: #fff4e5; --mark-bg: #fff; }
 .project-porley { --brand: #252525; --brand-soft: #f0ece4; --mark-bg: #ece7dd; }
+.project-abbate { --brand: #0b5d7a; --brand-soft: #edf6f9; --mark-bg: #0b5d7a; }
 .project-soluciones .project-mark { box-shadow: inset 0 -4px #75b900; color: #fff; }
 .project-soluciones .project-mark img { padding: 8px; }
 .project-cubo .project-mark img { padding: 10px; }
